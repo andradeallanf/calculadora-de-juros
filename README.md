@@ -185,3 +185,4 @@ src/
 4. Faça push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
 
+---
